@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">steganography</string>
+    <string name="encode_button">ENCODE</string>
+    <string name="decode_button">DECODE</string>
 </resources>
