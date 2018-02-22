@@ -14,7 +14,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onInformationButtonClick (View view) {
-
+        Intent intent = new Intent(this, InformationActivity.class);
+        startActivity(intent);
     }
 
 

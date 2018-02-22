@@ -5,4 +5,9 @@
     <string name="title_activity_information">InformationActivity</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
+    <string name="encode_info">To encode your message, upload the image to store the message, type
+        in the secret word and type in the secret message.\n\nAfter clicking encode, save the
+        picture in your library and send it to your friend.</string>
+    <string name="decode_info">To decode a message, upload the image received with the hidden
+        message and type in the secret word.\n\nThe decoded text should show up in the text box.</string>
 </resources>

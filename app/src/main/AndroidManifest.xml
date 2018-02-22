@@ -21,6 +21,15 @@
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
 
+        <activity
+            android:name=".InformationActivity"
+            android:label="@string/title_activity_information"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.android.steganography.MainActivity" />
+        </activity>
     </application>
 
 </manifest>

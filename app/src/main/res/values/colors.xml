@@ -4,4 +4,6 @@
     <color name="colorPrimaryDark">#333ba5</color>
     <color name="colorAccent">#FF4081</color>
     <color name="buttonMainScreen">#ea2f3042</color>
+    <color name="InformationTextColor">#1aeb5d</color>
+    <color name="informationBackgroundColor">#00263a</color>
 </resources>
